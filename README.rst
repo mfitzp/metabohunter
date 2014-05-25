@@ -217,6 +217,9 @@ available in subsequent calculations.
 .. code:: python
 
     mhi.display()
+    
+.. image:: metabohunter-widgets.png    
+
 .. code:: python
 
     mhi.settings
